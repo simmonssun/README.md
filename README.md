@@ -51,8 +51,8 @@ Sou um profissional apaixonado por **Business Intelligence e Análise de Dados**
 
 | Habilidade | Nível | Experiência |
 |-----------|-------|-------------|
-| **Power BI** | ⭐⭐⭐⭐⭐ | Avançado |
-| **SQL Server** | ⭐⭐⭐⭐⭐ | Avançado |
+| **Power BI** | ⭐⭐⭐⭐⭐ | Intermediário |
+| **SQL Server** | ⭐⭐⭐⭐⭐ | Intermediário |
 | **Python** | ⭐⭐⭐⭐ | Intermediário/Avançado |
 | **JavaScript/TypeScript** | ⭐⭐⭐⭐ | Intermediário/Avançado |
 | **Análise de Dados** | ⭐⭐⭐⭐⭐ | Avançado |
