@@ -105,15 +105,6 @@ Sou um profissional apaixonado por **Business Intelligence e Análise de Dados**
 
 </div>
 
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simmonssun&theme=tokyo-night&bg_color=0d1117&border_color=30363d" alt="Contribution Graph" />
-</div>
-
----
 
 <div align="center">
   
