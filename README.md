@@ -1,6 +1,6 @@
 # 👋 Simmons San Aguilar Sun
 
-**Analista de Power BI | Desenvolvedor Full Stack | Entusiasta de Dados**
+**Analista de Power BI | Desenvolvedor Front-End | Entusiasta de Dados**
 
 > Transformando dados complexos em insights acionáveis e soluções inteligentes
 
